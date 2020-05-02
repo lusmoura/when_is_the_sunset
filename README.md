@@ -1,5 +1,5 @@
 # When is the sunset
-Python Script to get sunset time and add it to google calendar
+Love seing sunset, but missing it everyday =( this python script gets sunset time and add it to google calendar
 
 Requirements:
 - credentials.json file obtained with google calendar's api
